@@ -50,6 +50,7 @@ type StructureFieldDefinition struct {
 	Name        string
 	Description string
 	Type        string
+	Required	string
 }
 
 type KeyValuePair struct {
