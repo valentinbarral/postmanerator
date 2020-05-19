@@ -194,8 +194,8 @@ func (c *CollectionBuilder) getStructureDefinition(srcVal otto.Value) (Structure
 		}
 
 		// Get field required
-		if fieldDesc, ok := fieldDefMap["required"].(string); ok == true {
-			fieldDef.Required = fieldDesc
+		if fieldRequired, ok := fieldDefMap["required"].(string); ok == true {
+			fieldDef.Required = fieldRequired
 		}
 
 
