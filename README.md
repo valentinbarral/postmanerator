@@ -1,8 +1,6 @@
-[![Build Status](https://travis-ci.org/valentinbarral/postmanerator.svg?branch=master)](https://travis-ci.org/valentinbarral/postmanerator) [![Coverage Status](https://coveralls.io/repos/github/valentinbarral/postmanerator/badge.svg?branch=master)](https://coveralls.io/github/valentinbarral/postmanerator?branch=master)
-
 ## What is it?
 
-This is a fork of [Postmanerator](https://github.com/aubm/postmanerator), a documentaion generator using Postman collections. This fork has the following differences from the original:
+This is a fork of [Postmanerator](https://github.com/aubm/postmanerator), a documentation generator using Postman collections. This fork has the following differences from the original:
 
 ## Added a new field to API structures
 
